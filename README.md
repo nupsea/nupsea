@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nupsea, data engineer by profession.
-- 👀 I’m interested in data engineering, data science and in general, < programming > . 
+- 👀 I’m interested in playing around with data, data science, software design and architecture and in general, < programming > . 
 - 🌱 I’m currently learning a bunch of stuff..
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me ...
