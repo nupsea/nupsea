@@ -1,9 +1,33 @@
-- 👋 Hi, I’m @nup, data engineer by profession.
-- 👀 I’m interested in playing around with data, data science, software design and architecture and in general, < programming > . 
-- 🌱 I’m currently learning a bunch of stuff..
-- 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me ...
-  eanups@yahoo.com
+### Hi there, I’m Anup (👋 @ nupsea)
+
+**Senior Data & MLOps Engineer • Data Streaming & ML/AI Enthusiast**
+
+🚀 **some key repos**
+- **Real-time pipelines** with **Apache Flink** & **Kafka** – e.g. [`flink-wlm`](https://github.com/nupsea/flink-wlm) and [`flink-score-pub`](https://github.com/nupsea/flink-score-pub) :contentReference[oaicite:0]{index=0}
+- **ML/Deep-Learning demos** from ML Zoomcamp & beyond – [`dlzc`](https://github.com/nupsea/dlzc) and [`mlzc-movie-pred`](https://github.com/nupsea/mlzc-movie-pred) :contentReference[oaicite:3]{index=3}  
+- **Airflow orchestration templates** for hundreds of jobs – see [`af-wlm`](https://github.com/nupsea/af-wlm) :contentReference[oaicite:1]{index=1}  
+- **Notebook-to-DAG workflow** bridge with Zeppelin (`noteflow`) :contentReference[oaicite:2]{index=2}  
+- **Foundational ML math** & probabilistic modelling notebooks – [`founmle`](https://github.com/nupsea/founmle) :contentReference[oaicite:4]{index=4}  
+
+🌱 **Currently exploring**  
+`Flink 2.0 / Apache Paimon • Rust for data`
+
+🤝 **Open to collaborate on**  
+building data-frameworks, data-quality tooling, stream processing, and anything that makes data pipelines _boring-reliable_.
+
+📫 **Let’s connect**  
+[![Email](https://img.shields.io/badge/email-eanups%40yahoo.com-blue?style=flat&logo=gmail)](mailto:eanups@yahoo.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anup-sethuram-3916106/)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nupsea&show_icons=true" height="160" alt="GitHub stats"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nupsea&layout=compact&hide=html" height="160" alt="Top languages"/>
+</p>
+
 
 <!---
 nupsea/nupsea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
