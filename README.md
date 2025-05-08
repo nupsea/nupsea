@@ -3,11 +3,11 @@
 **Senior Data & MLOps Engineer • Data Streaming & ML/AI Enthusiast**
 
 🚀 **some key repos**
-- **Real-time pipelines** with **Apache Flink** & **Kafka** – e.g. [`flink-wlm`](https://github.com/nupsea/flink-wlm) and [`flink-score-pub`](https://github.com/nupsea/flink-score-pub) :contentReference[oaicite:0]{index=0}
-- **ML/Deep-Learning demos** from ML Zoomcamp & beyond – [`dlzc`](https://github.com/nupsea/dlzc) and [`mlzc-movie-pred`](https://github.com/nupsea/mlzc-movie-pred) :contentReference[oaicite:3]{index=3}  
-- **Airflow orchestration templates** for hundreds of jobs – see [`af-wlm`](https://github.com/nupsea/af-wlm) :contentReference[oaicite:1]{index=1}  
-- **Notebook-to-DAG workflow** bridge with Zeppelin (`noteflow`) :contentReference[oaicite:2]{index=2}  
-- **Foundational ML math** & probabilistic modelling notebooks – [`founmle`](https://github.com/nupsea/founmle) :contentReference[oaicite:4]{index=4}  
+- **Real-time pipelines** with **Apache Flink** & **Kafka** – e.g. [`flink-wlm`](https://github.com/nupsea/flink-wlm) and [`flink-score-pub`](https://github.com/nupsea/flink-score-pub) 
+- **ML/Deep-Learning demos** from ML Zoomcamp & beyond – [`dlzc`](https://github.com/nupsea/dlzc) and [`mlzc-movie-pred`](https://github.com/nupsea/mlzc-movie-pred) 
+- **Airflow orchestration templates** for hundreds of jobs – see [`af-wlm`](https://github.com/nupsea/af-wlm)   
+- **Notebook-to-DAG workflow** bridge with Zeppelin (`noteflow`)  
+- **Foundational ML math** & probabilistic modelling notebooks – [`founmle`](https://github.com/nupsea/founmle) 
 
 🌱 **Currently exploring**  
 `Flink 2.0 / Apache Paimon • Rust for data`
