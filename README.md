@@ -10,7 +10,7 @@
 - **Foundational ML math** & probabilistic modelling notebooks – [`founmle`](https://github.com/nupsea/founmle) 
 
 🌱 **Currently exploring**  
-`Flink 2.0 / Apache Paimon • Rust for data`
+`Flink 2.0 / LLMs`
 
 🤝 **Open to collaborate on**  
 building data-frameworks, data-quality tooling, stream processing, and anything that makes data pipelines _boring-reliable_.
