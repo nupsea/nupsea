@@ -1,6 +1,6 @@
 # Anup Sethuram
 
-Senior Data Platform Engineer | Batch & Streaming | ML/DL/GenAI enthusiast | Reliability & Observability focus.
+**Senior Data Platform Engineer | Batch & Streaming | ML/DL/GenAI enthusiast | Reliability & Observability focus**
 
 This profile highlights personal projects and experiments in data engineering, data science, ML and GenAI.
 
