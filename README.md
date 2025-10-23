@@ -1,35 +1,33 @@
-### Hi there, I’m Anup (👋 @ nupsea)
+# Anup Sethuram
 
-**Senior Data & MLOps Engineer • Data Streaming & ML/AI Enthusiast**
-
-🚀 **some key repos**
-- **Real-time pipelines** with **Apache Flink** & **Kafka** – e.g. [`flink-wlm`](https://github.com/nupsea/flink-wlm) and [`flink-score-pub`](https://github.com/nupsea/flink-score-pub) 
-- **ML/Deep-Learning demos** from ML Zoomcamp & beyond – [`dlzc`](https://github.com/nupsea/dlzc) and [`mlzc-movie-pred`](https://github.com/nupsea/mlzc-movie-pred) 
-- **Airflow orchestration templates** for hundreds of jobs – see [`af-wlm`](https://github.com/nupsea/af-wlm)   
-- **Notebook-to-DAG workflow** bridge with Zeppelin (`noteflow`)  
-- **Foundational ML math** & probabilistic modelling notebooks – [`founmle`](https://github.com/nupsea/founmle) 
-
-🌱 **Currently exploring**  
-`Flink 2.0 / LLMs`
-
-🤝 **Open to collaborate on**  
-building data-frameworks, data-quality tooling, stream processing, and anything that makes data pipelines _boring-reliable_.
-
-📫 **Let’s connect**  
-[![Email](https://img.shields.io/badge/email-eanups%40yahoo.com-blue?style=flat&logo=gmail)](mailto:eanups@yahoo.com)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anup-sethuram-3916106/)
+I build reliable data platforms: real-time streaming with Flink/Kafka and lakehouse ETL on AWS. 
+This profile highlights personal projects and experiments in streaming, datascience, ML and GenAI.
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nupsea&show_icons=true" height="160" alt="GitHub stats"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nupsea&layout=compact&hide=html" height="160" alt="Top languages"/>
-</p>
+## Recent Projects
 
+- **Content-Pal** — RAG-style streaming content assistant; search + chat to find films/TV and availability. [repo »](https://github.com/nupsea/content-pal)  
+- **Book-Mate** — upload a book, ask questions; retrieval over chunked text + evaluations. [repo »](https://github.com/nupsea/book-mate)  
+- **Flink-WLM** — Scala Flink jobs (batch + realtime) with windowing + local cluster how-tos. [repo »](https://github.com/nupsea/flink-wlm)  
+- **Flink Score Publisher** — publish match updates from Flink to Redis for a live prediction UI. [repo »](https://github.com/nupsea/flink-score-pub)  
+- **AF-WLM** — Airflow dataset-driven templates for repeatable PySpark/Athena jobs. [repo »](https://github.com/nupsea/af-wlm)  
+- **NoteFlow** — run notebooks as Airflow tasks; Zeppelin→Airflow development flow. [repo »](https://github.com/nupsea/noteflow)  
+- **DKIT** — Data Engineering toolkit (Python package scaffolding + tests). [repo »](https://github.com/nupsea/dkit)  
+- **MLZC Movie Pred** — ML Zoomcamp exercises; movie recs baseline. [repo »](https://github.com/nupsea/mlzc-movie-pred)  
+- **DLZC** — Deep-learning demo with Docker/TFLite run notes. [repo »](https://github.com/nupsea/dlzc)
 
-<!---
-nupsea/nupsea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+*More projects and links on my portfolio site → https://nupsea.github.io*
+
+---
+
+## Tech I use here
+**Streaming & Batch:** Apache Flink, Kafka, Spark • **Lakehouse:** Iceberg, S3/Redshift, Athena, Glue  
+**DataOps:** Airflow, GitHub Actions, Docker/K8s, Observability (New Relic, CloudWatch)  
+**GenAI & Retrieval:** RAG, embeddings, OpenSearch, Qdrant • **ML:** Kubeflow, TensorFlow, scikit-learn  
+**Languages:** Python, SQL, Scala/Java
+
+---
+
+## Contact
+• Email: eanups@gmail.com • LinkedIn: linkedin.com/in/anup-sethuram-3916106/
