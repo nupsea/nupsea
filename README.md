@@ -20,7 +20,7 @@
 > Explore featured projects at **[nupsea.github.io](https://nupsea.github.io)**
 
 ### Recent & Active
-
+- **Doc-Mate** — upload a document now, an upgrade to book-mate. [repo »](https://github.com/nupsea/doc-mate)
 - **Book-Mate** — upload a book, ask questions; retrieval over chunked text + evaluations. [repo »](https://github.com/nupsea/book-mate)
 - **Content-Pal** — RAG-style streaming content assistant; search + chat to find films/TV and availability. [repo »](https://github.com/nupsea/content-pal)
 - **Flink Score Publisher** — publish match updates from Flink to Redis for a live prediction UI. [repo »](https://github.com/nupsea/flink-score-pub)
