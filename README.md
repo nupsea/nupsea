@@ -27,10 +27,10 @@
 
 ### Data Engineering & Orchestration
 
+- **DKIT** — Data Engineering toolkit (Python package scaffolding + tests). [repo »](https://github.com/nupsea/dkit)
 - **Flink-WLM** — Scala Flink jobs (batch + realtime) with windowing + local cluster how-tos. [repo »](https://github.com/nupsea/flink-wlm)
 - **AF-WLM** — Airflow dataset-driven templates for repeatable PySpark/Athena jobs. [repo »](https://github.com/nupsea/af-wlm)
 - **NoteFlow** — run notebooks as Airflow tasks; Zeppelin→Airflow development flow. [repo »](https://github.com/nupsea/noteflow)
-- **DKIT** — Data Engineering toolkit (Python package scaffolding + tests). [repo »](https://github.com/nupsea/dkit)
 
 ### Learning & Experiments
 
