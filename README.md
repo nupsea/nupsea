@@ -2,9 +2,9 @@
 
 # Anup Sethuram
 
-### Senior Data Platform Engineer | Batch & Streaming 
+### Senior AI & Data Platform Engineer 
 
-**` ML/DL/GenAI Enthusiast | Reliability & Observability Focus`**
+**`15+ yrs engineering · 1B+ events/day streaming · 500+ Batch Pipeline Orchestration · RAG · Agentic Workflows · LLMOps · DataEngBytes Speaker`**
 
 ---
 
@@ -15,27 +15,9 @@
 
 ---
 
-## Projects
+## Projects & Interests
 
-> Explore featured projects at **[nupsea.github.io](https://nupsea.github.io)**
-
-### Recent & Active
-- **Doc-Mate** — upload a document now, an upgrade to book-mate. [repo »](https://github.com/nupsea/doc-mate)
-- **Book-Mate** — upload a book, ask questions; retrieval over chunked text + evaluations. [repo »](https://github.com/nupsea/book-mate)
-- **Content-Pal** — RAG-style streaming content assistant; search + chat to find films/TV and availability. [repo »](https://github.com/nupsea/content-pal)
-- **Flink Score Publisher** — publish match updates from Flink to Redis for a live prediction UI. [repo »](https://github.com/nupsea/flink-score-pub)
-
-### Data Engineering & Orchestration
-
-- **DKIT** — Data Engineering toolkit (Python package scaffolding + tests). [repo »](https://github.com/nupsea/dkit)
-- **Flink-WLM** — Scala Flink jobs (batch + realtime) with windowing + local cluster how-tos. [repo »](https://github.com/nupsea/flink-wlm)
-- **AF-WLM** — Airflow dataset-driven templates for repeatable PySpark/Athena jobs. [repo »](https://github.com/nupsea/af-wlm)
-- **NoteFlow** — run notebooks as Airflow tasks; Zeppelin→Airflow development flow. [repo »](https://github.com/nupsea/noteflow)
-
-### Learning & Experiments
-
-- **MLZC Movie Pred** — ML Zoomcamp exercises; movie recs baseline. [repo »](https://github.com/nupsea/mlzc-movie-pred)
-- **DLZC** — Deep-learning demo with Docker/TFLite run notes. [repo »](https://github.com/nupsea/dlzc)
+> Explore at **[nupsea.github.io](https://nupsea.github.io)**
 
 ---
 
